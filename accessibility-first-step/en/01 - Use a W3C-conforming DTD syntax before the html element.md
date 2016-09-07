@@ -8,12 +8,12 @@ selector:   html
 
 # Purpose
 
-[fr] Permettre aux agents utilisateurs d'interpréter correctement le document.
+Allow user agents to correctly interpret the document.
 
 # Technical solution
 
-[fr] Positionner comme premier élément une dtd conforme. Choisir dans la liste suivante : http://www.w3.org/QA/2002/04/valid-dtd-list.html
+Place a W3C-conforming DTD as first element of the document. Chose one from this list: http://www.w3.org/QA/2002/04/valid-dtd-list.html
 
 # Control method
 
-[fr] Vérifier que le premier élément des pages est une déclaration de dtd conforme.
+Check that the first element in pages is a conform DTD declaration.
