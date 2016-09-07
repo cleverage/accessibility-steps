@@ -1,14 +1,32 @@
 # Traduction des Accessibility Steps de Opquast
 
-Ce dépôt Github a pour objectif d'aider à traduire collectivement les listes Accessibility Steps ([first step](https://checklists.opquast.com/fr/accessibility-first-step/) et [second step](https://checklists.opquast.com/fr/accessibility-second-step/)) du projet Opquast, afin qu'elles puissent profiter à un public plus large.
+## Présentation générale
 
-La première langue cible est l'anglais, pour laquelle le travail avait déjà été initié par Aurélien Levy et Stéphane Deschamps.
+Ce projet a pour objectif de **traduire collectivement les listes Accessibility Steps** ([first step](https://checklists.opquast.com/fr/accessibility-first-step/) et [second step](https://checklists.opquast.com/fr/accessibility-second-step/)) du projet Opquast, afin qu'elles puissent **profiter à un public plus large**.
 
-D'autres langues pourraient être ajoutées par la suite si des contributeurs le proposent.
+**La première langue cible est l'anglais**, pour laquelle le travail avait déjà été initié par Aurélien Levy et Stéphane Deschamps, qui ont déjà traduit tous les titres.
+
+D'autres langues pourraient être ajoutées par la suite si des contributeurs le proposent, mais l'objectif est de finaliser l'anglais au préalable.
 
 ## Le projet Opquast
 
 [Le projet Opquast](http://checklists.opquast.com/fr/workshops/) (Open Quality Standards) a pour objectif de faire avancer la qualité Web à travers des outils d'évaluation, des ressources, un annuaire. Le projet a notamment pour objectif d'élaborer, de faire vivre et d'assurer la diffusion libre de référentiels publics de bonnes pratiques.
+
+## Organisation des fichiers et méthodologie de traduction
+
+Chaque règle est décrite dans un fichier Markdown à part, avec :
+
+- Une partie initiale *YAML Front Matter* pour quelques méta données ;
+- Un titre de premier niveau pour la description de la règle ;
+- Des titres de second niveau pour les trois composantes de la fiche.
+
+Les premiers fichiers ont été initialisés, vous pouvez ajouter les manquants au fur et à mesure.
+
+Pour proposer une traduction, vous pouvez donc [ajouter ou éditer directement une fiche (un des fichiers Markdown) sur l'interface Web de Github, qui vous proposera automatiquement de créer la *pull request* correspondante](https://help.github.com/articles/editing-files-in-another-user-s-repository/).
+
+Si vous maîtrisez l'outillage technique Git/Github, vous pouvez bien entendu faire vous-même un fork du projet, et faire des *pull requests* directement.
+
+Attention, merci de ne proposer qu'**une seule fiche en traduction par *pull request***. Si vous traduisez plusieurs fiches, faites autant de *pull requests*. Mélanger plusieurs propositions au sein d'une unique *pull request* rend le travail collaboratif de revue et commentaire plus compliqué. Lisez [The 55 Commits Syndrome](https://oncletom.io/2013/the-55-commits-syndrome/) pour vous en convaincre.
 
 ## Crédits et remerciements
 
