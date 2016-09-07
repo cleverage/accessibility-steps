@@ -1,11 +1,11 @@
 ---
-id:         6
+id:         16
 priority:   Error
 topic:      HTML
-selector:   html
+selector:   h3
 ---
 
-# Use the lang attribute for the html element
+# When you provide a h3 element, do not leave it empty
 ## Purpose
 
 ## Technical solution

@@ -1,14 +1,15 @@
 ---
 id:         10
-title:      When you provide a title attribute for a frame element, do not leave it empty
 priority:   Error
 topic:      HTML
 selector:   frame[title]
 ---
 
-# Purpose
+# When you provide a title attribute for a frame element, do not leave it empty
 
-# Technical solution
+## Purpose
 
-# Control method
+## Technical solution
+
+## Control method
 

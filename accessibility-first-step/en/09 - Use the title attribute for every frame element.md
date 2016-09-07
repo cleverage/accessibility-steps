@@ -1,14 +1,14 @@
 ---
 id:         9
-title:      Use the title attribute for every frame element
 priority:   Error
 topic:      HTML
 selector:   frame
 ---
 
-# Purpose
+# Use the title attribute for every frame element
+## Purpose
 
-# Technical solution
+## Technical solution
 
-# Control method
+## Control method
 

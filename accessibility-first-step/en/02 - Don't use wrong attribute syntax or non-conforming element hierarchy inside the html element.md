@@ -1,14 +1,15 @@
 ---
 id:         2
-title:      Don't use wrong attribute syntax or non-conforming element hierarchy inside the html element
 priority:   Error
 topic:      HTML
 selector:   html
 ---
 
-# Purpose
+# Don't use wrong attribute syntax or non-conforming element hierarchy inside the html element
 
-# Technical solution
+## Purpose
 
-# Control method
+## Technical solution
+
+## Control method
 

@@ -1,14 +1,14 @@
 ---
 id:         3
-title:      Use a title element as a child of the head element
 priority:   Error
 topic:      HTML
 selector:   head
 ---
 
-# Purpose
+# Use a title element as a child of the head element
+## Purpose
 
-# Technical solution
+## Technical solution
 
-# Control method
+## Control method
 

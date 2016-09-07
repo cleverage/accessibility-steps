@@ -1,11 +1,11 @@
 ---
-id:         6
+id:         13
 priority:   Error
 topic:      HTML
-selector:   html
+selector:   body
 ---
 
-# Use the lang attribute for the html element
+# Use at least one h1 element as a descendant of the body element
 ## Purpose
 
 ## Technical solution
