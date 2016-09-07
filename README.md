@@ -1,6 +1,6 @@
 # Traduction des Accessibility Steps de Opquast
 
-Ce dépôt Github a pour objectif d'aider à traduire les listes Accessibility Steps du projet Opquast, afin qu'elles soient exploitables plus largement.
+Ce dépôt Github a pour objectif d'aider à traduire collectivement les listes Accessibility Steps ([first step](https://checklists.opquast.com/fr/accessibility-first-step/) et [second step](https://checklists.opquast.com/fr/accessibility-second-step/)) du projet Opquast, afin qu'elles puissent profiter à un public plus large.
 
 La première langue cible est l'anglais, pour laquelle le travail avait déjà été initié par Aurélien Levy et Stéphane Deschamps.
 
@@ -8,7 +8,7 @@ D'autres langues pourraient être ajoutées par la suite si des contributeurs le
 
 ## Le projet Opquast
 
-[Le projet Opquast](http://opquast.org/) (Open Quality Standards) a pour objectif de faire avancer la qualité Web à travers des outils d'évaluation, des ressources, un annuaire. Le projet a notamment pour objectif d'élaborer, de faire vivre et d'assurer la diffusion libre de référentiels publics de bonnes pratiques.
+[Le projet Opquast](http://checklists.opquast.com/fr/workshops/) (Open Quality Standards) a pour objectif de faire avancer la qualité Web à travers des outils d'évaluation, des ressources, un annuaire. Le projet a notamment pour objectif d'élaborer, de faire vivre et d'assurer la diffusion libre de référentiels publics de bonnes pratiques.
 
 ## Crédits et remerciements
 
@@ -17,8 +17,6 @@ Merci à l'ensemble des contributeurs Opquast qui ont participé aux appels à c
 ## Licences
 
 Les bonnes pratiques sont publiées sous [licence Creative Commons BY-SA](http://creativecommons.org/licenses/by-sa/2.0/fr/). Vous pouvez en faire ce que vous souhaitez, même dans un cadre commercial, la licence choisie vous rend en quelque sorte co-propriétaire de ces contenus. La licence vous impose en revanche de maintenir la paternité du contenu, nous vous remercions donc par avance de citer l'origine, voire de faire un lien vers le site de la société Temesis ou celui du projet Opquast. Opquast est une marque française déposée à l'INPI.
-
-http://creativecommons.org/licenses/by-sa/2.0/fr/
 
 ## Et après ?
 
