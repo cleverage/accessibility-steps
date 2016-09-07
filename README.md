@@ -28,7 +28,7 @@ Pour proposer une traduction, vous pouvez donc [ajouter ou éditer directement u
 
 Si vous maîtrisez l'outillage technique Git/Github, vous pouvez bien entendu faire vous-même un fork du projet, et faire des *pull requests* directement.
 
-Attention, merci de ne proposer qu'**une seule fiche en traduction par *pull request***. Si vous traduisez plusieurs fiches, faites autant de *pull requests*. Mélanger plusieurs propositions au sein d'une unique *pull request* rend le travail collaboratif de revue et commentaire plus compliqué. Lisez *"[The 55 Commits Syndrome](https://oncletom.io/2013/the-55-commits-syndrome/)"* pour vous en convaincre.
+Attention, merci de ne proposer qu' **une seule fiche en traduction par *pull request* **. Si vous traduisez plusieurs fiches, faites autant de *pull requests*. Mélanger plusieurs propositions au sein d'une unique *pull request* rend le travail collaboratif de revue et commentaire plus compliqué. Lisez *"[The 55 Commits Syndrome](https://oncletom.io/2013/the-55-commits-syndrome/)"* pour vous en convaincre.
 
 ## Crédits et remerciements
 
