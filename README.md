@@ -54,10 +54,10 @@ Ces tableaux sont générés automatiquement à partir des fiches en Markdown, n
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN status-table (yet to be written) TO UPDATE -->
 ### Accessibility first step
 
-| id | description                                                                                                                                                      | en          |
-|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| 1  | [Use a W3C-conforming DTD syntax before the html element](accessibility-first-step/en/01\ -\ Use\ a\ W3C-conforming\ DTD\ syntax\ before\ the\ html\ element.md) | in progress |
-| …  | …                                                                                                                                                                | …           |
+| id | description                                             | en                                                                                                                   |
+|----|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| 1  | Use a W3C-conforming DTD syntax before the html element | [in progress](accessibility-first-step/en/01\ -\ Use\ a\ W3C-conforming\ DTD\ syntax\ before\ the\ html\ element.md) |
+| …  | …                                                       | …                                                                                                                    |
 
 ### Accessibility second step
 
