@@ -7,6 +7,7 @@
 - [Présentation générale](#pr%C3%A9sentation-g%C3%A9n%C3%A9rale)
 - [Le projet Opquast](#le-projet-opquast)
 - [Organisation des fichiers et méthodologie de traduction](#organisation-des-fichiers-et-m%C3%A9thodologie-de-traduction)
+- [Statut des traductions](#statut-des-traductions)
 - [Crédits et remerciements](#cr%C3%A9dits-et-remerciements)
 - [Licences](#licences)
 - [Et après ?](#et-apr%C3%A8s-)
@@ -44,6 +45,22 @@ Pour proposer une traduction, vous pouvez donc [ajouter ou éditer directement u
 Si vous maîtrisez l'outillage technique Git/Github, vous pouvez bien entendu faire vous-même un fork du projet, et faire des *pull requests* directement.
 
 Attention, merci de ne proposer qu' **une seule fiche en traduction par *pull request* **. Si vous traduisez plusieurs fiches, faites autant de *pull requests*. Mélanger plusieurs propositions au sein d'une unique *pull request* rend le travail collaboratif de revue et commentaire plus compliqué. Lisez *"[The 55 Commits Syndrome](https://oncletom.io/2013/the-55-commits-syndrome/)"* pour vous en convaincre.
+
+## Statut des traductions
+
+<!-- START statustable -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN statustable (yet to be written) TO UPDATE -->
+### Accessibility first step
+
+| id | description                                                                                                                                                      | en          |
+|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| 1  | [Use a W3C-conforming DTD syntax before the html element](accessibility-first-step/en/01\ -\ Use\ a\ W3C-conforming\ DTD\ syntax\ before\ the\ html\ element.md) | in progress |
+| …  | …                                                                                                                                                                | …           |
+
+### Accessibility second step
+
+<!-- END statustable -->
+
 
 ## Crédits et remerciements
 
