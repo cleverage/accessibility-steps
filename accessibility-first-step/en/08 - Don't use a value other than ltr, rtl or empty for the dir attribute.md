@@ -10,7 +10,13 @@ status:     not started
 
 ## Purpose
 
+Pas de description en français.
+
 ## Technical solution
 
+Pas de description en français.
+
 ## Control method
+
+Pas de description en français.
 

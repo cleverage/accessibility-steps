@@ -10,6 +10,12 @@ status:     not started
 
 ## Purpose
 
+Eviter à l'utilisateur d'avoir une hiérarchie de titre incomplète ou incohérente.
+
 ## Technical solution
 
+Ajouter un contenu à l'élément.
+
 ## Control method
+
+Inspecter le code afin de vérifier la présence de contenu dans les éléments `<h5>`.

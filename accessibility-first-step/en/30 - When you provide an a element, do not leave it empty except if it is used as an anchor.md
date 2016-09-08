@@ -10,11 +10,11 @@ status:     not started
 
 ## Purpose
 
-Éviter à l'utilisateur d'avoir des éléments interactifs dont il ne peut connaitre la destination ou l'action
+Éviter à l'utilisateur d'avoir des éléments interactifs dont il ne peut connaitre la destination ou l'action.
 
 ## Technical solution
 
-Mettre un libellé dans l'élément <a>. Par exemple : `<a href="http://www.google.fr">Site de google</a>`
+Mettre un libellé dans l'élément `<a>`. Par exemple : `<a href="http://www.google.fr">Site de google</a>`.
 
 ## Control method
 

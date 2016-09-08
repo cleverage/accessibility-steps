@@ -10,8 +10,14 @@ status:     not started
 
 ## Purpose
 
+Eviter les trous dans la hiérarchie des titres.
+
 ## Technical solution
 
+Précéder chaque élément `<h2>` d'un élément `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>` ou `<h6>`.
+
 ## Control method
+
+Extraire la structure des titres et vérifier que chaque élément `<h2>` est précédé d'un élément `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>` ou `<h6>`.
 
 

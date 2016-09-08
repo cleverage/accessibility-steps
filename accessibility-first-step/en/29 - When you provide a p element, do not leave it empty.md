@@ -10,7 +10,13 @@ status:     not started
 
 ## Purpose
 
+Eviter l'utilisation d'éléments à des fins de présentation.
+
 ## Technical solution
 
+Supprimer les éléments `<p>` qui ne possèdent pas de contenu. Utiliser les propriétés des feuilles de styles `margin` et `padding` pour déterminer les écarts entres les différents éléments.
+
 ## Control method
+
+Vérifier que le contenu des éléments `<p>` n'est pas vide.
 

@@ -10,8 +10,14 @@ status:     not started
 
 ## Purpose
 
+Permettre la restitution du titre de la page.
+
 ## Technical solution
 
+Déterminer le titre de la page et renseigner l'élément `<title>` avec ce titre.
+
 ## Control method
+
+Inspecter le code afin de vérifier que l'élément `<title>` n'est pas vide.
 
 

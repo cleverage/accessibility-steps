@@ -10,7 +10,13 @@ status:     not started
 
 ## Purpose
 
+Permettre l'identification et la restitution du titre principal de la page.
+
 ## Technical solution
 
+Baliser le titre principal de la page avec l'élément `<h1>`.
+
 ## Control method
+
+Inspecter le code source pour vérifier la présence d'au moins un élément `<h1>` dans l'élément `<body>`.
 
