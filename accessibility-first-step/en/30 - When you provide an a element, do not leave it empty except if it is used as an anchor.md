@@ -13,7 +13,7 @@ status:     not started
 
 ## Technical solution
 
-Mettre un libellé dans l'élément <a>. Par exemple : <a href="http://www.google.fr">Site de google</a>
+Mettre un libellé dans l'élément <a>. Par exemple : `<a href="http://www.google.fr">Site de google</a>`
 
 ## Control method
 
