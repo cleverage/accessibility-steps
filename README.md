@@ -4,6 +4,8 @@
 
 Ce projet a pour objectif de **traduire collectivement les listes Accessibility Steps** ([first step](https://checklists.opquast.com/fr/accessibility-first-step/) et [second step](https://checklists.opquast.com/fr/accessibility-second-step/)) du projet Opquast, afin qu'elles puissent **profiter à un public plus large**.
 
+Nous, chez Clever Age, avons de plus en plus de clients à l'international qui acceptent de travailler avec les référenciels de bonnes pratiques Opquast, mais sont bloqués par le contenu essentiellement français, d'où le lancement de cette initiative.
+
 **La première langue cible est l'anglais**, pour laquelle le travail avait déjà été initié par Aurélien Levy et Stéphane Deschamps, qui ont déjà traduit tous les titres.
 
 D'autres langues pourraient être ajoutées par la suite si des contributeurs le proposent, mais l'objectif est de finaliser l'anglais au préalable.
