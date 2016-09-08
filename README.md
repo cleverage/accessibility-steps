@@ -1,5 +1,18 @@
 # Traduction des Accessibility Steps de Opquast
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Sommaire
+
+- [Présentation générale](#pr%C3%A9sentation-g%C3%A9n%C3%A9rale)
+- [Le projet Opquast](#le-projet-opquast)
+- [Organisation des fichiers et méthodologie de traduction](#organisation-des-fichiers-et-m%C3%A9thodologie-de-traduction)
+- [Crédits et remerciements](#cr%C3%A9dits-et-remerciements)
+- [Licences](#licences)
+- [Et après ?](#et-apr%C3%A8s-)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Présentation générale
 
 Ce projet a pour objectif de **traduire collectivement les listes Accessibility Steps** ([first step](https://checklists.opquast.com/fr/accessibility-first-step/) et [second step](https://checklists.opquast.com/fr/accessibility-second-step/)) du projet Opquast, afin qu'elles puissent **profiter à un public plus large**.
