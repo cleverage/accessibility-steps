@@ -48,7 +48,14 @@ Attention, merci de ne proposer qu' **une seule fiche en traduction par *pull re
 
 ## Statut des traductions
 
-Ces tableaux sont générés automatiquement à partir des fiches en Markdown, notamment la méta donnée `status` du *YAML Front Matter*. Le script de génération reste à écrire, en s'inspirant de [doctoc](https://github.com/thlorenz/doctoc/blob/master/doctoc.js) par exemple.
+Ces tableaux sont générés automatiquement à partir des fiches en Markdown, notamment la méta donnée `status` du *YAML Front Matter*. **Le script de génération reste à écrire, en s'inspirant de [doctoc](https://github.com/thlorenz/doctoc/blob/master/doctoc.js) par exemple.**
+
+Les status possibles sont les suivants :
+
+- not started
+- in progress
+- needs review
+- validated
 
 <!-- START status-table -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN status-table (yet to be written) TO UPDATE -->
