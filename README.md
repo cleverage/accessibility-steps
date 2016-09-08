@@ -61,6 +61,11 @@ Ces tableaux sont générés automatiquement à partir des fiches en Markdown, n
 
 ### Accessibility second step
 
+| id | description                                                                        | en                                                                                                                                                                                    |
+|----|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | Use with caution successive div elements whose contents start with -, –, —, * or • | [not started](accessibility-second-step/en/accessibility-second-step/en/01\ -\ Use\ with\ caution\ successive\ div\ elements\ whose\ contents\ start\ with\ -,\ –,\ —,\ \*\ or\ •.md) |
+| …  | …                                                                                  | …                                                                                                                                                                                     |
+
 <!-- END status-table -->
 
 
