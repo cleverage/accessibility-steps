@@ -1,0 +1,19 @@
+approvals:
+  minimum: 1
+  ignore: pr_opener
+  pattern: "(:\\+1:|👍|LGTM)"
+  veto:
+    pattern: "(:\\-1:|👎)"
+specification:
+  title:
+    minimum-length:
+      enabled: true
+      length: 8
+  body:
+    minimum-length:
+      enabled: true
+      length: 8
+    contains-url: false
+    contains-issue-number: false
+  template:
+    differs-from-body: true
