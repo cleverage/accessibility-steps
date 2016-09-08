@@ -50,8 +50,8 @@ Attention, merci de ne proposer qu' **une seule fiche en traduction par *pull re
 
 Ces tableaux sont générés automatiquement à partir des fiches en Markdown, notamment la méta donnée `statut` du *YAML Front Matter*. (le script de génération reste à écrire)
 
-<!-- START statustable -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN statustable (yet to be written) TO UPDATE -->
+<!-- START status-table -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN status-table (yet to be written) TO UPDATE -->
 ### Accessibility first step
 
 | id | description                                                                                                                                                      | en          |
@@ -61,7 +61,7 @@ Ces tableaux sont générés automatiquement à partir des fiches en Markdown, n
 
 ### Accessibility second step
 
-<!-- END statustable -->
+<!-- END status-table -->
 
 
 ## Crédits et remerciements
