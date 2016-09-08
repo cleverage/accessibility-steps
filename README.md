@@ -38,7 +38,7 @@ Chaque règle est décrite dans un fichier Markdown à part, avec :
 
 Cette structure est calquée sur celle des fiches source disponibles sur <http://checklists.opquast.com/en/workshops/>.
 
-Les premiers fichiers ont été initialisés, vous pouvez ajouter les manquants au fur et à mesure.
+Les premiers fichiers ont été initialisés, avec les contenus en français à traduire, vous pouvez ajouter les manquants au fur et à mesure.
 
 Pour proposer une traduction, vous pouvez donc [ajouter ou éditer directement une fiche (un des fichiers Markdown) sur l'interface Web de Github, qui vous proposera automatiquement de créer la *pull request* correspondante](https://help.github.com/articles/editing-files-in-another-user-s-repository/).
 
