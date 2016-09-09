@@ -18,5 +18,4 @@ Add a content to the `<h1>` element.
 
 ## Control method
 
-Inspect the source code in order to check if content is present in the  `<h1>` elements.
-
+Inspect the source code to check if content is present in the  `<h1>` elements.
