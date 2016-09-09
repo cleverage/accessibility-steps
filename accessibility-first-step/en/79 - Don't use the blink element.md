@@ -10,12 +10,12 @@ status:     not started
 
 ## Purpose
 
-Permettre d'éviter la présence de clignotement qu'il n'est pas possible d'arrêter.
+Allow the user to customize the display of the page by using a personal style sheet that replaces the one provided by the designer.
 
 ## Technical solution
 
-Eviter les contenus clignotant ou utiliser un système de clignotement des contenus que les utilisateurs peuvent contrôler avec la souris et avec le clavier.
+Use stylesheets to define the position and the visual characteristics of the elements.
 
 ## Control method
 
-Inspecter le code source pour vérifier l'absence de la balise `<blink>`.
+Inspect the source code to verify the absence of the `<blink>` tag.
