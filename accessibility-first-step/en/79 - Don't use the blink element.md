@@ -10,11 +10,11 @@ status:     needs review
 
 ## Purpose
 
-Allow the user to customize the display of the page by using a personal style sheet that replaces the one provided by the designer.
+Allow to prevent the presence of a flashing that cannot be stopped.
 
 ## Technical solution
 
-Use stylesheets to define the position and the visual characteristics of the elements.
+Avoid flashing contents or use a flashing system that users can control with the mouse and the keyboard.
 
 ## Control method
 
