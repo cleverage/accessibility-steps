@@ -10,13 +10,12 @@ status:     not started
 
 ## Purpose
 
-Permettre la restitution d'un contenu décrivant la fonction et/ou le contenu de l'élément.
+Allow the restituation of a content describing the function and/or the content of the element.
 
 ## Technical solution
 
-Ajouter un attribut `title` sur chaque élément `<frame>`. Exemple : `<frame title='...' src='...'></frame>`.
+Add a `title` attribut on every `<frame>` element, .e.g. `<frame title='...' src='...'></frame>`.
 
 ## Control method
 
-Inspecter le code afin de vérifier la présence d'un attribut `title` sur chaque élément `<frame>`.
-
+Inspect the source code in order to check the presence of a `title` attribute on every `<frame>` element.
