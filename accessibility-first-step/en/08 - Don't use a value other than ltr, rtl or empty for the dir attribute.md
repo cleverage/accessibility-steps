@@ -3,20 +3,19 @@ id:         8
 priority:   Error
 topic:      HTML
 selector:   dir
-status:     not started
+status:     needs review
 ---
 
 # Don't use a value other than ltr, rtl or empty for the dir attribute
 
 ## Purpose
 
-Pas de description en français.
+No description provided.
 
 ## Technical solution
 
-Pas de description en français.
+No description provided.
 
 ## Control method
 
-Pas de description en français.
-
+No description provided.
