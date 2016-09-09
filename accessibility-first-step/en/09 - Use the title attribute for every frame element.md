@@ -3,19 +3,19 @@ id:         9
 priority:   Error
 topic:      HTML
 selector:   frame
-status:     not started
+status:     needs review
 ---
 
 # Use the title attribute for every frame element
 
 ## Purpose
 
-Allow the restituation of a content describing the function and/or the content of the element.
+Permettre la restitution d'un contenu décrivant la fonction et/ou le contenu de l'élément.
 
 ## Technical solution
 
-Add a `title` attribut on every `<frame>` element, .e.g. `<frame title='...' src='...'></frame>`.
+Ajouter un attribut `title` sur chaque élément `<frame>`. Exemple : `<frame title='...' src='...'></frame>`.
 
 ## Control method
 
-Inspect the source code in order to check the presence of a `title` attribute on every `<frame>` element.
+Inspecter le code afin de vérifier la présence d'un attribut `title` sur chaque élément `<frame>`.
