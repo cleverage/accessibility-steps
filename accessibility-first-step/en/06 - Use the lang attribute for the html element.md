@@ -14,8 +14,8 @@ Allow the declaration of the document's language and allow assistive technologie
 
 ## Technical solution
 
-Add `lang` attribute on the `<html>` element.
+Add `lang` attribute on the `<html>` tag.
 
 ## Control method
 
-Inspect the source code in order to check if the `lang` attribute is present on the `<html>` element.
+Inspect the source code to check if the `lang` attribute is present on the `<html>` tag.
