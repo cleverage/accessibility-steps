@@ -14,7 +14,7 @@ Allow the user to customize the display of the page by using a personal style sh
 
 ## Technical solution
 
-Use stylesheets to define the position and the visual characteristics of the elements.
+Use style sheets to define the position and the visual characteristics of the elements.
 
 ## Control method
 
