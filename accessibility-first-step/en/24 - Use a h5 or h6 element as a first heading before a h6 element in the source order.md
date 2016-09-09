@@ -10,13 +10,12 @@ status:     not started
 
 ## Purpose
 
-Eviter les trous dans la hiérarchie des titres.
+Avoid blanks in the title hierarchy.
 
 ## Technical solution
 
-Précéder chaque élément `<h6>` d'un élément `<h5>` ou `<h6>`.
+Precede each `<h6>` element by a `<h5>` or `<h6>` element.
 
 ## Control method
 
-Extraire la structure des titres et vérifier que chaque élément `<h6>` est précédé d'un élément `<h5>` ou `<h6>`.
-
+Extract the tree title and check that each `<h6>` element is preceded by a `<h5>` ou `<h6>` element.
