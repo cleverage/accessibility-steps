@@ -10,7 +10,7 @@ status:     needs review
 
 ## Purpose
 
-Allow the restitution of a content describing the function and/or content of the element.
+Allow the restitution of a content describing the function and/or the content of the element.
 
 ## Technical solution
 
@@ -18,5 +18,4 @@ Add a content to the `title` attribute on the `<iframe>` elements.
 
 ## Control method
 
-Inspect the source code in order to checck if a content is present in the `title` attributes of the `<iframe>` elements.
-
+Inspect the source code to check if a content is present in the `title` attributes of the `<iframe>` elements.
