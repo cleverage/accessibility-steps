@@ -11,8 +11,7 @@ specification:
       length: 8
   body:
     minimum-length:
-      enabled: true
-      length: 8
+      enabled: false
     contains-url: false
     contains-issue-number: false
   template:
