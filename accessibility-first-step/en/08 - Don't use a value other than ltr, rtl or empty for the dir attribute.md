@@ -10,12 +10,12 @@ status:     needs review
 
 ## Purpose
 
-No description provided.
+Allow assistive technologies to adapt to the document's language.
 
 ## Technical solution
 
-No description provided.
+When the `dir` attribute is used, his value must be `rtl`, `ltr` or empty.
 
 ## Control method
 
-No description provided.
+Inspect the source code to check that the value of the `dir` attribute is `rtl`, `ltr` or empty.
