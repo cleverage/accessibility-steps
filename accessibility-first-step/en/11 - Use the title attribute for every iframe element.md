@@ -3,20 +3,20 @@ id:         11
 priority:   Error
 topic:      HTML
 selector:   iframe
-status:     not started
+status:     needs review
 ---
 
 # Use the title attribute for every iframe element
 
 ## Purpose
 
-Permettre la restitution d'un contenu décrivant la fonction et/ou le contenu de l'élément.
+Allow the restitution of a content describing the function and/or the content of the element.
 
 ## Technical solution
 
-Ajouter un attribut `title` sur chaque élément `<iframe>`.
+Add a `title` attribute on every element `<iframe>`.
 
 ## Control method
 
-Inspecter le code afin de vérifier la présence d'un attribut `title` sur chaque élément `<iframe>`.
+Inspect the source code in order to check if a `title` attribute is present on every `<iframe>` element.
 
