@@ -3,20 +3,20 @@ id:         13
 priority:   Error
 topic:      HTML
 selector:   body
-status:     not started
+status:     needs review
 ---
 
 # Use at least one h1 element as a descendant of the body element
 
 ## Purpose
 
-Permettre l'identification et la restitution du titre principal de la page.
+Allow the identification and the resitution of the main title of the page.
 
 ## Technical solution
 
-Baliser le titre principal de la page avec l'élément `<h1>`.
+Mark the main title of the page with the `<h1>` element.
 
 ## Control method
 
-Inspecter le code source pour vérifier la présence d'au moins un élément `<h1>` dans l'élément `<body>`.
+Inspect the source code in order to check if there is at least one `<h1>` element in the `<body>` element.
 
