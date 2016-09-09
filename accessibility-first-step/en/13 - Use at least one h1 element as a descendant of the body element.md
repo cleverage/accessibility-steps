@@ -10,7 +10,7 @@ status:     needs review
 
 ## Purpose
 
-Allow the identification and the resitution of the main title of the page.
+Allow the identification and the restitution of the main title of the page.
 
 ## Technical solution
 
@@ -18,5 +18,4 @@ Mark the main title of the page with the `<h1>` element.
 
 ## Control method
 
-Inspect the source code in order to check if there is at least one `<h1>` element in the `<body>` element.
-
+Inspect the source code to check if there is at least one `<h1>` element in the `<body>` element.
