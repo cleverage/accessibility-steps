@@ -3,7 +3,7 @@ id:         79
 priority:   Error
 topic:      HTML
 selector:   blink
-status:     not started
+status:     needs review
 ---
 
 # Don't use the blink element
