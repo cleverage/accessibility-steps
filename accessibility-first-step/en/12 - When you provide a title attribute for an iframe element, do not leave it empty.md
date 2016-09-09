@@ -3,20 +3,20 @@ id:         12
 priority:   Error
 topic:      HTML
 selector:   iframe[title]
-status:     not started
+status:     needs review
 ---
 
 # When you provide a title attribute for an iframe element, do not leave it empty
 
 ## Purpose
 
-Permettre la restitution d'un contenu décrivant la fonction et/ou le contenu de l'élément.
+Allow the restitution of a content describing the function and/or content of the element.
 
 ## Technical solution
 
-Ajouter un contenu à l'attribut `title` des éléments `<iframe>`.
+Add a content to the `title` attribute on the `<iframe>` elements.
 
 ## Control method
 
-Inspecter le code afin de vérifier la présence de contenu sur les attributs `title` des éléments `<iframe>`.
+Inspect the source code in order to checck if a content is present in the `title` attributes of the `<iframe>` elements.
 
