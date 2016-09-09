@@ -10,13 +10,12 @@ status:     not started
 
 ## Purpose
 
-Permettre la restitution d'un titre de page destiné à identifier le contenu du document.
+Allow restitution of a page title aimed to identify the content of the document.
 
 ## Technical solution
 
-Ajouter un élément title dans l'élément `<head>`.
+Add a title element in the head element.
 
 ## Control method
 
-Vérifier la présence d'un élément title dans l'élément `<head>`.
-
+Check if a title element is in the head element.
