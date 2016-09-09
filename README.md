@@ -18,7 +18,7 @@
 
 Ce projet a pour objectif de **traduire collectivement les listes Accessibility Steps** ([first step](https://checklists.opquast.com/fr/accessibility-first-step/) et [second step](https://checklists.opquast.com/fr/accessibility-second-step/)) du projet Opquast, afin qu'elles puissent **profiter à un public plus large**.
 
-Nous, chez Clever Age, avons de plus en plus de clients à l'international qui acceptent de travailler avec les référenciels de bonnes pratiques Opquast, mais sont bloqués par le contenu essentiellement français, d'où le lancement de cette initiative. Nous lançons le projet, mais notre objectif est bien que tout cela revienne à Temesis, au sein du projet Opquast.
+Nous, chez Clever Age, avons de plus en plus de clients à l'international qui acceptent de travailler avec les référentiels de bonnes pratiques Opquast, mais sont bloqués par le contenu essentiellement français, d'où le lancement de cette initiative. Nous lançons le projet, mais notre objectif est bien que tout cela revienne à Opquast.
 
 **La première langue cible est l'anglais**, pour laquelle le travail avait déjà été initié par Aurélien Levy et Stéphane Deschamps, qui ont déjà traduit tous les titres.
 
