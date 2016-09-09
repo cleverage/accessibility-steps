@@ -14,8 +14,8 @@ Avoid an incomplete or incoherent title hierarchy to the user.
 
 ## Technical solution
 
-Add a content to the <h3> element.
+Add a content to the `<h3>` element.
 
 ## Control method
 
-Inspect the source code to check if content is present in the <h3> elements.
+Inspect the source code to check if content is present in the `<h3>` elements.
