@@ -18,4 +18,4 @@ Specify a standard value for the language code in the `lang` attribute, e.g. "fr
 
 ## Control method
 
-Inspect the source code in order to check the presence of a standard language code in the `lang` attributes.
+Inspect the source code to check the presence of a standard language code in the `lang` attributes.
