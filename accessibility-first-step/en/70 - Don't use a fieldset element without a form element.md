@@ -10,12 +10,12 @@ status:     not started
 
 ## Purpose
 
-Pas de description en français.
+Eviter l'utilisation d'une structuration non appropriée pour regrouper des éléments html.
 
 ## Technical solution
 
-Pas de description en français.
+Privilégier les éléments de structuration sémantique tel que `<section>`, `<article>`, `<aside>` pour structurer les blocs d'informations.
 
 ## Control method
 
-Pas de description en français.
+Inspecter le code afin de vérifier qu'un élément `<fieldset>` n'est pas utilisé en dehors de l'élément `<form>`.

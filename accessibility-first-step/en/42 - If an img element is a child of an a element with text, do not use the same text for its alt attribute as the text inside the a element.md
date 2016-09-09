@@ -10,12 +10,12 @@ status:     not started
 
 ## Purpose
 
-Pas de description en français.
+Eviter à l'utilisateur d'avoir une information qui lui est restituée plusieurs fois.
 
 ## Technical solution
 
-Pas de description en français.
+Utiliser un attribut `alt=""` sur l'image contenu dans un lien contenant également du texte faisant office d'intitulé.
 
 ## Control method
 
-Pas de description en français.
+Inspecter le code afin de vérifier que la valeur de l'attribut `alt` est vide (`alt=""`) sur les éléments `<img>` contenu dans des liens contenant également du texte faisant office d'intitulé de lien.

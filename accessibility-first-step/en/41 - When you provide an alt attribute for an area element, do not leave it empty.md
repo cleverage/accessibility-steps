@@ -10,12 +10,12 @@ status:     not started
 
 ## Purpose
 
-Pas de description en français.
+Eviter à l'utilisateur d'avoir des éléments interactifs dont il ne peut connaitre la destination ou l'action.
 
 ## Technical solution
 
-Pas de description en français.
+Renseigner le contenu de l'attribut `alt` avec la destination du lien.
 
 ## Control method
 
-Pas de description en français.
+Inspecter le code afin de vérifier la présence de contenu dans les attributs `alt` des `<area>` ayant un attribut `href`.

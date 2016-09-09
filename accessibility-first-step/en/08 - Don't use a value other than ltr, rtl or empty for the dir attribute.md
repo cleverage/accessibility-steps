@@ -10,13 +10,13 @@ status:     not started
 
 ## Purpose
 
-Pas de description en français.
+Permettre l'adaptation des aides techniques au sens de la langue du document.
 
 ## Technical solution
 
-Pas de description en français.
+Lorsque l'attribut `dir` est utilisé sa valeur doit être `rtl`, `ltr` ou vide.
 
 ## Control method
 
-Pas de description en français.
+Inspecter le code afin de vérifier que la valeur de l'attribut dir est bien `rtl`, `ltr` ou vide.
 
