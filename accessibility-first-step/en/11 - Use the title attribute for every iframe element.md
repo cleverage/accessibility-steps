@@ -14,9 +14,8 @@ Allow the restitution of a content describing the function and/or the content of
 
 ## Technical solution
 
-Add a `title` attribute on every element `<iframe>`.
+Add a `title` attribute on every `<iframe>` element.
 
 ## Control method
 
-Inspect the source code in order to check if a `title` attribute is present on every `<iframe>` element.
-
+Inspect the source code to check if a `title` attribute is present on every `<iframe>` element.
