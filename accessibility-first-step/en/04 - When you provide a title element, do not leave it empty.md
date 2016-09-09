@@ -10,12 +10,12 @@ status:     needs review
 
 ## Purpose
 
-Allow restitution of the page title.
+Allow the restitution of the page title.
 
 ## Technical solution
 
-Establish the page title and report this title to the `<title>` element.
+Determine the page title and report this title to the `<title>` element.
 
 ## Control method
 
-Inspect code in order to check that the `<title>` element is not empty.
+Inspect the source code in order to check that the `<title>` element is not empty.
