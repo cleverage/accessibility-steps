@@ -18,5 +18,5 @@ Use style sheets to define the position and the visual characteristics of the el
 
 ## Control method
 
-Inspect the source code to verify the absence of the `<center>` tag.
+Inspect the source code to verify the absence of the `<center>` element.
 
