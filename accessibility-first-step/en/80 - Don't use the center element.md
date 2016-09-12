@@ -10,7 +10,7 @@ status:     needs review
 
 ## Purpose
 
-Allow the user to customize the display of the page by using a personal style sheet that replaces the one provided by the designer.
+Allow the user to customize the display of the page by using a personal style sheet that overrides the one provided by the designer.
 
 ## Technical solution
 
