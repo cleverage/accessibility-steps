@@ -46,35 +46,7 @@ Si vous maîtrisez l'outillage technique Git/Github, vous pouvez bien entendu fa
 
 Attention, merci de ne proposer qu' **une seule fiche en traduction par *pull request* **. Si vous traduisez plusieurs fiches, faites autant de *pull requests*. Mélanger plusieurs propositions au sein d'une unique *pull request* rend le travail collaboratif de revue et commentaire plus compliqué. Lisez *"[The 55 Commits Syndrome](https://oncletom.io/2013/the-55-commits-syndrome/)"* pour vous en convaincre.
 
-## Statut des traductions
-
-Ces tableaux sont générés automatiquement à partir des fiches en Markdown, notamment la méta donnée `status` du *YAML Front Matter*. **Le script de génération reste à écrire, en s'inspirant de [doctoc](https://github.com/thlorenz/doctoc/blob/master/doctoc.js) par exemple.**
-
-Les status possibles sont les suivants :
-
-- not started
-- in progress
-- needs review
-- validated
-
-<!-- START status-table -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN status-table (yet to be written) TO UPDATE -->
-### Accessibility first step
-
-| id | description                                             | en                                                                                                                   |
-|----|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| 1  | Use a W3C-conforming DTD syntax before the html element | [in progress](accessibility-first-step/en/01\ -\ Use\ a\ W3C-conforming\ DTD\ syntax\ before\ the\ html\ element.md) |
-| …  | …                                                       | …                                                                                                                    |
-
-### Accessibility second step
-
-| id | description                                                                        | en                                                                                                                                                                                    |
-|----|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | Use with caution successive div elements whose contents start with -, –, —, * or • | [not started](accessibility-second-step/en/accessibility-second-step/en/01\ -\ Use\ with\ caution\ successive\ div\ elements\ whose\ contents\ start\ with\ -,\ –,\ —,\ \*\ or\ •.md) |
-| …  | …                                                                                  | …                                                                                                                                                                                     |
-
-<!-- END status-table -->
-
+Les propositions de traduction passant par des *pull requests*, n'hésitez pas à les consulter pour commenter ce qui vous paraît améliorable, ou juste donner un 👍 pour indiquer votre validation.
 
 ## Crédits et remerciements
 
