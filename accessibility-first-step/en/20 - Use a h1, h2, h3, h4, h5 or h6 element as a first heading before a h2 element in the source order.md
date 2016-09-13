@@ -3,21 +3,19 @@ id:         20
 priority:   Error
 topic:      HTML
 selector:   h2
-status:     not started
+status:     needs review
 ---
 
 # Use a h1, h2, h3, h4, h5 or h6 element as a first heading before a h2 element in the source order
 
 ## Purpose
 
-Eviter les trous dans la hiérarchie des titres.
+Avoid blanks in the title hierarchy.
 
 ## Technical solution
 
-Précéder chaque élément `<h2>` d'un élément `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>` ou `<h6>`.
+Precede each `<h2>` element by a `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>` or `<h6>` element.
 
 ## Control method
 
-Extraire la structure des titres et vérifier que chaque élément `<h2>` est précédé d'un élément `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>` ou `<h6>`.
-
-
+Extract the tree title and check that each `<h2>` element is preceded by a  `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>` ou `<h6>` element.

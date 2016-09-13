@@ -3,20 +3,19 @@ id:         23
 priority:   Error
 topic:      HTML
 selector:   h5
-status:     not started
+status:     needs review
 ---
 
 # Use a h4, h5 or h6 element as a first heading before a h5 element in the source order
 
 ## Purpose
 
-Eviter les trous dans la hiérarchie des titres.
+Avoid blanks in the title hierarchy.
 
 ## Technical solution
 
-Précéder chaque élément `<h5>` d'un élément `<h4>`, `<h5>` ou `<h6>`.
+Precede each `<h5>` element by a `<h4>`, `<h5>` or `<h6>` element.
 
 ## Control method
 
-Extraire la structure des titres et vérifier que chaque élément `<h5>` est précédé d'un élément `<h4>`, `<h5>` ou `<h6>`.
-
+Extract the tree title and check that each `<h5>` element is preceded by a `<h4>`, `<h5>` ou `<h6>` element.

@@ -3,20 +3,19 @@ id:         16
 priority:   Error
 topic:      HTML
 selector:   h3
-status:     not started
+status:     needs review
 ---
 
 # When you provide a h3 element, do not leave it empty
 
 ## Purpose
 
-Eviter à l'utilisateur d'avoir une hiérarchie de titre incomplète ou incohérente.
+Avoid an incomplete or incoherent title hierarchy to the user.
 
 ## Technical solution
 
-Ajouter un contenu à l'élément.
+Add a content to the `<h3>` element.
 
 ## Control method
 
-Inspecter le code afin de vérifier la présence de contenu dans les éléments `<h3>`.
-
+Inspect the source code to check if content is present in the `<h3>` elements.

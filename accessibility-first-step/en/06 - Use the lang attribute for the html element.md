@@ -3,20 +3,19 @@ id:         6
 priority:   Error
 topic:      HTML
 selector:   html
-status:     not started
+status:     needs review
 ---
 
 # Use the lang attribute for the html element
 
 ## Purpose
 
-Permettre la déclaration de la langue du document et l'adaptation des aides techniques à celle-ci.
+Allow the declaration of the document's language and allow assistive technologies to adapt to it.
 
 ## Technical solution
 
-Ajouter l'attribut `lang` sur l'élément `<html>`.
+Add `lang` attribute on the `<html>` tag.
 
 ## Control method
 
-Inspecter le code afin de vérifier la présence de l'attribut `lang` l'élément `<html>`.
-
+Inspect the source code to check if the `lang` attribute is present on the `<html>` tag.
