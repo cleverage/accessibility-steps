@@ -3,20 +3,19 @@ id:         10
 priority:   Error
 topic:      HTML
 selector:   frame[title]
-status:     not started
+status:     needs review
 ---
 
 # When you provide a title attribute for a frame element, do not leave it empty
 
 ## Purpose
 
-Permettre la restitution d'un contenu décrivant la fonction et/ou le contenu de l'élément.
+Allow the restitution of a content describing the function and/or the content of the element.
 
 ## Technical solution
 
-Ajouter un contenu à l'attribut `title` des éléments `<frame>` permettant de connaître la fonction ou le contenu de la `<frame>`. Exemple : `<frame title='navigation src='...' principale'></frame>`.
+Fill the `title` attribute of the `<frame>` elements to understand the function or the content of the `<frame>`, .e.g. `<frame title='main navigation' src='...'></frame>`.
 
 ## Control method
 
-Inspecter le code afin de vérifier la présence de contenu sur les attributs title des éléments `<frame>`.
-
+Inspect the source code to check if content is present in the `title` attributes of the `<frame>` elements.
