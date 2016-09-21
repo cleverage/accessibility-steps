@@ -58,5 +58,5 @@ Les bonnes pratiques sont publiées sous [licence Creative Commons BY-SA](http:/
 
 ## Et après ?
 
-Vous pouvez faire absolument ce que vous voulez de cette liste, et notamment effectuer vos audits. Nous vous conseillons toutefois vivement d'utiliser [Opquast Reporting](http://reporting.opquast.com), service en ligne proposé par Temesis pour évaluer vos sites.
+Vous pouvez faire absolument ce que vous voulez de cette liste, et notamment effectuer vos audits. Vous devez en revanche mentionner la paternité Opquast. Nous vous conseillons toutefois vivement d'utiliser [Opquast Reporting](http://reporting.opquast.com), service en ligne proposé par Opquast pour évaluer vos sites.
 
